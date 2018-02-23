@@ -1,2 +1,2 @@
 # student-cp-app-automation
-Automation tests for Student Crowd-Purchasing application 
+This repository contains automation test scenarios for Student Crowd-Purchasing application 
