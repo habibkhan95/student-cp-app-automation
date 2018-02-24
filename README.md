@@ -10,7 +10,7 @@ Download the latest version of Ruby using RVM (highly recommended).
 3. Enter ```bundle install``` to install required Ruby gems including Cucumber and Calabash
 
 ### Running the automation tests
-1. Connect your device and ensure it is in debug mode ([android](https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm))
+1. Connect your device and ensure it is on debugging mode ([android](https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm))
 2. Navigate to the project root directory on Terminal (Mac OS)
 3. Enter ```calabash-android run build/app-debug.apk``` into the terminal
 
